@@ -1,0 +1,8 @@
+Host sunfire
+  Hostname sunfire.comp.nus.edu.sg
+  User ong6
+
+Host cs2030lab
+  Hostname pe108
+  User plab8011
+  ProxyJump sunfire
